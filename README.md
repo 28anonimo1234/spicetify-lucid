@@ -12,3 +12,5 @@ to match your style and preferences.
 
 This project is licensed under the [MIT License](LICENSE) — feel free to modify
 and distribute it according to the terms.
+## Quer aprender a instalar o spicetify e utilizar o marketplace ? aqui está o guia de instalação ⬇️
+[Spicetify instalação ](https://spicetify.app/)
